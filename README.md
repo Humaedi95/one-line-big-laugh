@@ -1,8 +1,8 @@
 # One Line, Big Laugh
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857)
-[![entry](https://img.shields.io/badge/entry-one--line--big--laugh-green)](https://github.com/Humaedi95/one-line-big-laugh)
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)](https://github.com/Humaedi95/one-line-big-laugh/blob/main/LICENSE)
+[![make.fun · u-coral-404-one-line-big-laugh-328fb857](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+[![rank](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/Humaedi95/one-line-big-laugh/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+[![reward](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/Humaedi95/one-line-big-laugh/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
 
 Entry for the make.fun bounty [One Line, Big Laugh](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857): a single hilarious line, 200 characters or fewer, that stands entirely on its own.
 
